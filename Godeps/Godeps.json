@@ -1,0 +1,41 @@
+{
+	"ImportPath": "bitbucket.org/yichen/ktop",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Shopify/sarama",
+			"Comment": "v1.4.2-2-gb86f862",
+			"Rev": "b86f86267368b80ae9aa3ae54306422c029e407d"
+		},
+		{
+			"ImportPath": "github.com/eapache/go-resiliency/breaker",
+			"Rev": "779a811c89f2d4ca7c2cd7efe1cd350027b407bf"
+		},
+		{
+			"ImportPath": "github.com/eapache/queue",
+			"Comment": "v1.0.1-2-gd1df561",
+			"Rev": "d1df561eb6b9ffdac8dd98f943e9e9096c76c059"
+		},
+		{
+			"ImportPath": "github.com/golang/snappy/snappy",
+			"Rev": "a911026e1ffa84898778ccb0363930485e0aa880"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-runewidth",
+			"Comment": "travisish-31-g58a0da4",
+			"Rev": "58a0da4ed7b321c9b5dfeffb7e03ee188fae1c60"
+		},
+		{
+			"ImportPath": "github.com/nsf/termbox-go",
+			"Rev": "10f14d7408b64a659b7c694a771f5006952d336c"
+		},
+		{
+			"ImportPath": "github.com/samuel/go-zookeeper/zk",
+			"Rev": "fa6674abf3f4580b946a01bf7a1ce4ba8766205b"
+		},
+		{
+			"ImportPath": "github.com/yichen/suggest",
+			"Rev": "8adb4a0c8f75a0b9df61b12c8a54e4768b7d85c0"
+		}
+	]
+}
